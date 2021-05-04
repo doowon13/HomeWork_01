@@ -22,7 +22,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:hint="카카오계정 (이메일 또는 전화번호)"/>
+        android:hint="카카오계정 (이메일 또는 전화번호)"
+        android:inputType="textEmailAddress"/>
 
     <EditText
         android:layout_width="match_parent"
